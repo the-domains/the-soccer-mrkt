@@ -1,0 +1,28 @@
+name: The Soccer MRKT
+favicon: null
+layout_spectrum: 0.22666442883200943
+typography_spectrum: 0.7459028246812522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5561591798905283
+  lightness: 0.6319714188575745
+  saturation: 0.3558889445848763
+  rhythmicContrast: 0.7035537320189178
+purpose: []
